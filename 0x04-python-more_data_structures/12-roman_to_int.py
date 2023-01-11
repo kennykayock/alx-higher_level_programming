@@ -17,7 +17,7 @@ def roman_to_int(roman_string):
               "L": 50,
               "C": 100,
               "D": 500,
-              "D": 500,
+              "M": 1000,
     }
     result = 0
     temp = list(roman_string)
